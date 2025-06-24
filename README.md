@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 - 🎓 I'm a student in **Data Science**
-- 🐧 Passionate about **Linux** (Arch, BlackArch, Kali)
+- 🐧 Passionate about **Linux** (Arch, BlackArch, Kali, Ubuntu)
 - 💻 Skilled in **Hardware Networking** and **Software Development**
 - 🧠 Familiar with: `Python`, `HTML`, `CSS`, `JavaScript`, `Flask`, `Git`, `GitHub`
 - 🎮 Hobbies: **Gaming**, **Video Editing**
