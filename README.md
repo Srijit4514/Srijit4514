@@ -27,7 +27,7 @@
 
 ## 🔗 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/srijit-roy-377077282/" target="_blank"><img align="center" src="https://blog.boon.so/wp-content/uploads/2024/03/LinkedIn-Logo-2-1024x768.jpg" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/srijit-roy-377077282/" target="_blank"><img align="center" src="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/12/Popular-Linkedin-icon-in-modern-round-black-glass-web-on-transparent-background-PNG.png" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:srijit2004roy@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
   <a href="https://www.instagram.com/darks04yt/" target="_blank"><img align="center" src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="instagram" height="30" width="30" /></a>
   <a href="https://x.com/Srijit786" target="_blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" alt="twitter" height="30" width="30" /></a>
