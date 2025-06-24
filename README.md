@@ -29,7 +29,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/srijit-roy-377077282/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:srijit2004roy@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/darks04yt/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/darks04yt/" target="_blank"><img align="center" src="https://img.freepik.com/premium-psd/instagram-logo_971166-164497.jpg" alt="instagram" height="30" width="30" /></a>
   <a href="https://x.com/Srijit786" target="_blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" alt="twitter" height="30" width="30" /></a>
 </p>
 
