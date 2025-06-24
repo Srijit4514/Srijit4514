@@ -28,7 +28,7 @@
 ## 🔗 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/srijit-roy-377077282/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:srijit2004roy@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="mailto:srijit2004roy@gmail.com" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtmoqiJiyB-emg7RtbpaH8b9MTeZU-InTP-z7OxSCo4GAfOuamBO7Zcz17u9_mFC_5QA&usqp=CAU" alt="email" height="30" width="30" /></a>
   <a href="https://www.instagram.com/darks04yt/" target="_blank"><img align="center" src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="instagram" height="30" width="30" /></a>
   <a href="https://x.com/Srijit786" target="_blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" alt="twitter" height="30" width="30" /></a>
 </p>
