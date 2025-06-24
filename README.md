@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/darks04yt/" target="_blank"><img align="center" src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="instagram" height="30" width="30" /></a>
   <a href="https://x.com/Srijit786" target="_blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" alt="twitter" height="30" width="30" /></a>
   <a href="https://www.facebook.com/srijit.roy.32362" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="facebook" height="30" width="30" /></a>
-  <a href="https://discord.com/users/963409962959245362" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="discord" height="30" width="30" /></a>
+  <a href="https://discord.com/mr.darks786/963409962959245362" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="discord" height="30" width="30" /></a>
 </p>
 
 ---
