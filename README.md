@@ -19,8 +19,6 @@
 
 ## 📊 Tech Skills Visualization
 
-## 📊 Tech Skills Visualization
-
 <!-- Top Languages by Project Use -->
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijit4514&layout=compact&theme=radical&langs_count=8)
 
