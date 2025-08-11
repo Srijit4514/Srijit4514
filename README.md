@@ -7,7 +7,7 @@
 - 🎓 I'm a student in **Data Science** at **IIT Madras.**
 - 🐧 Passionate about **Linux** (Arch, BlackArch, Kali, Ubuntu).
 - 💻 Skilled in **Hardware Networking** and **Software Development.**
-- 🧠 Familiar with: `Python`, `HTML`, `CSS`, `JavaScript`, `Flask`, `Git`, `GitHub`.
+- 🧠 Familiar with: `Python`, `HTML`, `CSS`, `JavaScript`, `Flask`, `Git`, `GitHub`
 - 🎮 Hobbies: **Gaming**, **Video Editing.**
 - 🔧 Tools I Use:
   - 👨‍💻 Coding: `VS Code`, `Cursor`, `Trae`
