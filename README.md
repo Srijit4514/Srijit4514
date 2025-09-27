@@ -1,4 +1,3 @@
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Hi%20There!%20I'm%20Srijit%20Roy%20👋&fontSize=32&fontAlign=center&fontColor=ffffff&desc=Data%20Science%20Student%20%7C%20Linux%20User%20%7C%20Developer&descAlign=center&descAlignY=70)
 
 ---
@@ -7,7 +6,20 @@
 - 🎓 I'm a student in **Data Science** at **IIT Madras.**
 - 🐧 Passionate about **Linux** (Arch, BlackArch, Kali, Ubuntu).
 - 💻 Skilled in **Hardware Networking** and **Software Development.**
-- 🧠 Familiar with: `Python`, `HTML`, `CSS`, `JavaScript`, `Flask`, `Git`, `GitHub`
+- 🧠 Familiar with:  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
 - 🎮 Hobbies: **Gaming**, **Video Editing.**
 - 🔧 Tools I Use:
   - 👨‍💻 Coding: `VS Code`, `Cursor`, `Trae`
@@ -20,16 +32,12 @@
 
 ## 📊 Tech Skills Visualization
 
-<!-- Top Languages by Project Use -->
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijit4514&layout=compact&theme=radical&langs_count=8)
 
-<!-- Contributions Activity -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Srijit4514&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
-<!-- Overall GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijit4514&show_icons=true&theme=radical&count_private=true&hide_rank=false)
 
-<!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srijit4514&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/Srijit4514)
 
 ---
