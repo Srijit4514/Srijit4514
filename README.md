@@ -34,9 +34,7 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijit4514&layout=compact&theme=radical&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Srijit4514&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijit4514&show_icons=true&theme=radical&count_private=true&hide_rank=false)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srijit4514&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/Srijit4514)
 
