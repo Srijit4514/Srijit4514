@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 - 🎓 I'm a student in **Data Science** at **IIT Madras.**
-- 🐧 Passionate about **Linux** **(Arch, Kali, Ubuntu)**.
+- 🐧 Passionate about **Linux** **(Arch, Kali, Ubuntu).**
 - 💻 Skilled in **Hardware Networking** and **Software Development.**
 - 🧠 Familiar with:  
   <p>
