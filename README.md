@@ -28,8 +28,8 @@
   </p>
 - 🎮 Hobbies: **Gaming**, **Video Editing.**
 - 🔧 Tools I Use:
-  - 👨‍💻 Coding: `VS Code`, `Cursor`, `Trae`
-  - 🧪 Virtualization: `VMware`
+  - 👨‍💻 Coding: `VS Code`, `Cursor`, `Trae`, `Antigravity`
+  - 🧪 Virtualization: `VMware`, `Oracle VirtualBox`
   - 🎥 Video Editing: `DaVinci Resolve`, `OBS Studio`
   - 📟 Terminals: `Kitty`, `Bash`, `Zsh`, `PowerShell`
   - 🕹️ Gaming Platforms: `Roblox`, `BlueStacks`, `Steam`
