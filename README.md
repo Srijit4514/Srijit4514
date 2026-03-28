@@ -39,9 +39,9 @@
   - 🕹️ Gaming Platforms: `Roblox`, `BlueStacks`, `Steam`
 
 </td>
-  <td valign="top" width="40%">
+  <td valign="top" width="50%">
     
-### 🌍 Languages I'm Learning
+### Languages I'm Learning
     
 <table>
   <tr><th>Language</th><th>Level</th></tr>
