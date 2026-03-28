@@ -41,7 +41,7 @@
 </td>
   <td valign="top" width="40%">
     
-### Languages I'm Learning
+### 🌍 Languages I'm Learning
     
 <table>
   <tr><th>Language</th><th>Level</th></tr>
