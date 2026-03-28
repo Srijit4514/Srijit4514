@@ -27,12 +27,32 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 - 🎮 Hobbies: **Gaming**, **Video Editing.**
+<table>
+  <tr>
+    <td valign="top" width="80%">
+
 - 🔧 Tools I Use:
   - 👨‍💻 Coding: `VS Code`, `Cursor`, `Trae`, `Antigravity`
   - 🧪 Virtualization: `VMware`, `Oracle VirtualBox`
   - 🎥 Video Editing: `DaVinci Resolve`, `OBS Studio`
   - 📟 Terminals: `Kitty`, `Bash`, `Zsh`, `PowerShell`
   - 🕹️ Gaming Platforms: `Roblox`, `BlueStacks`, `Steam`
+
+</td>
+  <td valign="top" width="40%">
+    
+### Languages I'm Learning
+    
+<table>
+  <tr><th>Language</th><th>Level</th></tr>
+  <tr><td>Bengali</td><td>🔵🔵🔵🔵🔵</td></tr>
+  <tr><td>Hindi</td><td>🔵🔵🔵🔵⚪</td></tr>
+  <tr><td>English</td><td>🔵🔵🔵⚪⚪</td></tr>
+  <tr><td>Japanese</td><td>🔵🔵⚪⚪⚪</td></tr>
+  <tr><td>German</td><td>🔵⚪⚪⚪⚪</td></tr>
+</table>
+  </tr>
+</table>
 
 ---
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srijit4514&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/Srijit4514)
