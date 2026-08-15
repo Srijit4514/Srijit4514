@@ -27,7 +27,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </p>
+
 - 🎮 Hobbies: **Gaming**, **Video Editing.**
+
 <table>
   <tr>
     <td valign="top" width="80%">
@@ -37,45 +39,78 @@
   - 🧪 Virtualization: `VMware`, `Oracle VirtualBox`
   - 🎥 Video Editing: `DaVinci Resolve`, `OBS Studio`
   - 📟 Terminals: `Kitty`, `Bash`, `Zsh`, `PowerShell`
-  - 🕹️ Gaming Platforms: `Roblox`, `BlueStacks`, `Steam`,`Epic Games`
+  - 🕹️ Gaming Platforms: `Roblox`, `BlueStacks`, `Steam`, `Epic Games`
 
 </td>
-  <td valign="top" width="50%">
-    
+
+<td valign="top" width="50%">
+
 ### Languages I'm Learning
-    
+
 <table>
-  <tr><th>Language</th><th>Level</th></tr>
-  <tr><td>Bengali</td><td>🔵🔵🔵🔵🔵</td></tr>
-  <tr><td>Hindi</td><td>🔵🔵🔵🔵⚪</td></tr>
-  <tr><td>English</td><td>🔵🔵🔵⚪⚪</td></tr>
-  <tr><td>Japanese</td><td>🔵🔵⚪⚪⚪</td></tr>
-  <tr><td>German</td><td>🔵⚪⚪⚪⚪</td></tr>
+  <tr>
+    <th>Language</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td>Bengali</td>
+    <td>🔵🔵🔵🔵🔵</td>
+  </tr>
+  <tr>
+    <td>Hindi</td>
+    <td>🔵🔵🔵🔵⚪</td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>🔵🔵🔵⚪⚪</td>
+  </tr>
+  <tr>
+    <td>Japanese</td>
+    <td>🔵🔵⚪⚪⚪</td>
+  </tr>
+  <tr>
+    <td>German</td>
+    <td>🔵⚪⚪⚪⚪</td>
+  </tr>
 </table>
+
+</td>
   </tr>
 </table>
 
 ---
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srijit4514&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/Srijit4514)
+
+# 🐍 Contribution Matrix
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/boy397/boy397/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
+
 ## 🔗 Connect with Me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/srijit-roy-377077282/" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" height="35"/>
   </a>
+
   <a href="mailto:srijit2004roy@gmail.com" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtmoqiJiyB-emg7RtbpaH8b9MTeZU-InTP-z7OxSCo4GAfOuamBO7Zcz17u9_mFC_5QA&usqp=CAU" height="35"/>
   </a>
+
   <a href="https://www.instagram.com/darks04yt/" target="_blank">
     <img src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" height="35"/>
   </a>
+
   <a href="https://x.com/Srijit786" target="_blank">
     <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" height="35"/>
   </a>
+
   <a href="https://www.facebook.com/srijit.roy.32362" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" height="35"/>
   </a>
+
   <a href="https://discord.com/users/963409962959245362" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bhYj1sALwQhnFxdj7hZpI6zmmAczir073Q&s" height="35"/>
   </a>
