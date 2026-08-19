@@ -1,12 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Hi%20There!%20I'm%20Srijit%20Roy%20👋&fontSize=32&fontAlign=center&fontColor=ffffff&desc=Data%20Science%20Student%20%7C%20Linux%20User%20%7C%20Developer&descAlign=center&descAlignY=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Hi%20There!%20I'm%20Srijit%20Roy%20&fontSize=32&fontAlign=center&fontColor=ffffff&desc=Data%20Science%20Student%20%7C%20Linux%20User%20%7C%20Developer&descAlign=center&descAlignY=70)
 
 ---
 
-## 💫 About Me:
-- 🎓 I'm a student in **Data Science** at **IIT Madras.**
-- 🐧 Passionate about **Linux** **(Arch, Kali, Ubuntu, Fedora, Omarchy, Bodhi, RedHat).**
-- 💻 Skilled in **Hardware Networking** and **Software Development.**
-- 🧠 Familiar with:  
+##  About Me:
+-  I'm a student in **Data Science** at **IIT Madras.**
+-  Passionate about **Linux** **(Arch, Kali, Ubuntu, Fedora, Omarchy, Bodhi, RedHat).**
+-  Skilled in **Hardware Networking** and **Software Development.**
+-  Familiar with:  
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -28,18 +28,18 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </p>
 
-- 🎮 Hobbies: **Gaming**, **Video Editing.**
+-  Hobbies: **Gaming**, **Video Editing.**
 
 <table>
   <tr>
     <td valign="top" width="80%">
 
-- 🔧 Tools I Use:
-  - 👨‍💻 Coding: `VS Code`, `Cursor`, `Trae`, `Antigravity`, `Codex`, `NeoVim`, `Nano`
-  - 🧪 Virtualization: `VMware`, `Oracle VirtualBox`
-  - 🎥 Video Editing: `DaVinci Resolve`, `OBS Studio`
-  - 📟 Terminals: `Kitty`, `Bash`, `Zsh`, `PowerShell`
-  - 🕹️ Gaming Platforms: `Roblox`, `BlueStacks`, `Steam`, `Epic Games`
+-  Tools I Use:
+  -  Coding: `VS Code`, `Cursor`, `Trae`, `Antigravity`, `Codex`, `NeoVim`, `Nano`
+  -  Virtualization: `VMware`, `Oracle VirtualBox`
+  -  Video Editing: `DaVinci Resolve`, `OBS Studio`
+  -  Terminals: `Kitty`, `Bash`, `Zsh`, `PowerShell`
+  -  Gaming Platforms: `Roblox`, `BlueStacks`, `Steam`, `Epic Games`
 
 </td>
 
@@ -80,7 +80,7 @@
 
 ---
 
-# 🐍 Contribution Matrix
+#  Contribution Matrix
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/boy397/boy397/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -88,7 +88,7 @@
 
 ---
 
-## 🔗 Connect with Me:
+##  Connect with Me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/srijit-roy-377077282/" target="_blank">
